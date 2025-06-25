@@ -2,6 +2,7 @@
 
 This Streamlit web app allows you to upload a preprocessed time series CSV dataset with 11 specific features and generate future forecasts using two deep learning models: LSTM and GRU. You can select which feature to predict and compare the forecasts visually and in tabular form.
 
+Link: https://energyconsumptionforecast.streamlit.app/
 ---
 
 ## Features
